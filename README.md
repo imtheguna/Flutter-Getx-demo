@@ -1,6 +1,5 @@
-# getx_demo
+# Getx Demo
 
-A new Flutter project.
 
 ## Getting Started
 
