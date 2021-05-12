@@ -1,4 +1,4 @@
-# Getx Demo
+# Getx Demo 
 
 
 ## Getting Started
